@@ -12,5 +12,5 @@ Features:
 - Loggin in is required to use the calculator
 - Keeps history of calculations in database
 
-![Calculator](frontend/public/screenshot.png)
+![Calculator](https://github.com/etuver/Fullstack-Calculator/blob/main/Frontend/public/Screenshot%20.png)
 
